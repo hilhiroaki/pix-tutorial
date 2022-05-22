@@ -1,0 +1,15 @@
+# Pix
+
+This documentation provides information of what is Pix.
+
+-----------------------
+
+Pix is a Brazilian instant payment, created by the Central Bank (BC). With this payment method, the funds are transferred between accounts in a few seconds. Pix can be carried out from a checking account, savings account or prepaid payment account.
+
+In addition to increasing the speed at which payments or transfers are made and received, Pix has the potential to:
+
+* Leverage market competitiveness and efficiency;
+* Lower costs, increase security and improve customer experience;
+* Encourage the electronicization of the retail payments market;
+* Promote financial inclusion;
+* Fill a series of gaps in the basket of payment instruments currently available to the population.
