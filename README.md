@@ -15,4 +15,4 @@ Eu entendo que o objetivo principal era o texto de como configurar a chave pix. 
 #### QR code method
 #### Deposit method
 
-Como os outros tópicos criados não eram o foco, escrevi apenas um texto simples em cada um deles, sendo que nos pagamentos fiz apenas um dos exemplos para ilustrar.
+> Como os outros tópicos criados não eram o foco, escrevi apenas um texto simples em cada um deles, sendo que nos pagamentos fiz apenas um dos exemplos para ilustrar.
