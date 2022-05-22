@@ -7,8 +7,8 @@ This documentation is a tutorial of how to configure a PIX key.
 3. Cadastro?
 4. Select the option "Register key". Selecione a opção "Registrar chave".
 5. Select one of the options to use as Pix key:
-  * CPF
-  * Phone number
-  * E-mail
-  * Random key
+   * CPF
+   * Phone number
+   * E-mail
+   * Random key
 6. Insert the selected Pix key and confirm.
