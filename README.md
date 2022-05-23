@@ -2,7 +2,7 @@
 
 Gostaria de apontar alguns comentários sobre o teste.
 
-Eu entendo que o objetivo principal era o texto de como configurar a chave pix (arquivo 2. How to configure a Pix key.md). Junto à ideia de estruturação de uma página, eu quis dar um contexto para as instruções que eu iria escrever. E, pra mim, era justamente entender onde esse tipo de texto seria inserido. Por isso, eu havia pensado na seguinte estrutura:
+Eu entendo que o objetivo principal era o texto de como configurar a chave pix (disponível no arquivo "2. How to configure a Pix key.md"). Junto à ideia de estruturação de uma página, eu quis dar um contexto para as instruções que eu iria escrever. E, pra mim, era justamente entender onde esse tipo de texto seria inserido. Por isso, eu havia pensado na seguinte estrutura:
 
 # Pix
 ## Pix keys
